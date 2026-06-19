@@ -1,5 +1,10 @@
 ¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
 
-La relación entre los conceptos es la responsabilidad y la organización. Al utilizar internet debemos verificar la información antes de compartirla, tanto para evitar riesgos relacionados con la información como para no incomodar a los demás usuarios, además de actuar con respeto. De igual forma, la participación ciudadana requiere responsabilidad para aportar de manera positiva en los espacios digitales.
-
-En el caso de Git, esta herramienta permite organizar los repositorios y trabajos, registrar cambios y colaborar con otras personas de manera coherente y ordenada. Por ello, tanto en la ciudadanía digital como en el trabajo con Git es importante actuar de forma responsable, respetar las normas, a las personas y sus opiniones, además de contribuir al bienestar del grupo.
+La relación entre los conceptos es la responsabilidad y la organización. Al utilizar internet debemos verificar 
+la información antes de compartirla, tanto para evitar riesgos relacionados con la información como para 
+no incomodar a los demás usuarios, además de actuar con respeto. De igual forma, la participación ciudadana 
+requiere responsabilidad para aportar de manera positiva en los espacios digitales.
+En el caso de Git, esta herramienta permite organizar los repositorios y trabajos, registrar 
+cambios y colaborar con otras personas de manera coherente y ordenada. Por ello, tanto en la 
+ciudadanía digital como en el trabajo con Git es importante actuar de forma responsable, respetar 
+las normas, a las personas y sus opiniones, además de contribuir al bienestar del grupo.
