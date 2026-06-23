@@ -1,0 +1,12 @@
+CONCEPTOS API
+
+La ruta POST /reporte permite recibir información enviada por un usuario. Cuando se envía un 
+mensaje, el servidor lo recibe y responde con una confirmación indicando que el reporte fue 
+recibido correctamente.
+
+Al probar la ruta con Thunder Client envié un mensaje en formato JSON y obtuve una respuesta 
+con el estado "Reporte recibido" y el mismo mensaje enviado.
+
+Esta ruta podría servir en una aplicación comunitaria para que los ciudadanos envíen reportes,
+sugerencias o informen problemas de su barrio o comunidad. De esta manera, la información 
+puede ser recibida y gestionada por los responsables de la plataforma.

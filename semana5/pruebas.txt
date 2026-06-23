@@ -1,0 +1,16 @@
+PRUEBAS DE LAS RUTAS:
+
+Ruta: http://localhost:3000
+
+Al abrir o ejecutar esta ruta en el navegador aparece el mensaje principal de la aplicación. 
+Es la página de inicio del servidor muestra el mensaje "Servidor activo"
+
+Ruta: http://localhost:3000/saludo
+
+Al ingresar a esta ruta se muestra un saludo que fue configurado en el archivo del servidor 
+y muestra el mensaje "Hola comunidad" 
+
+Ruta: http://localhost:3000/mensaje/maria
+
+Al abrir esta ruta aparece un mensaje personalizado con el nombre "maria". 
+Esto sucede porque la ruta recibe el nombre desde la URL y lo muestra en la respuesta la cual es "Hola maria"
