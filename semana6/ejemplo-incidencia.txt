@@ -1,0 +1,4 @@
+{
+  "tipo": "Ruido excesivo",
+  "descripcion": "La comunidad reporta que un vecino realiza reuniones con música a alto volumen hasta altas horas de la noche, generando molestias en el sector."
+}

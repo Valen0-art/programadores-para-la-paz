@@ -1,0 +1,9 @@
+En mi opinión considero que es importante que las plataformas tecnológicas puedan recibir reportes o
+información de forma estructurada porque esto facilita la organización y el procesamiento 
+de los datos. Cuando la información sigue un formato definido, es más fácil identificar 
+problemas, necesidades o solicitudes de los ciudadanos. Además, se reducen los errores y 
+se evita la pérdida de información importante. Esto permite que las instituciones o 
+comunidades respondan de manera más rápida y eficiente. También ayuda a mantener registros 
+claros que pueden ser consultados posteriormente. De esta forma se fortalece la comunicación 
+entre los ciudadanos y las organizaciones. En mi opinión, una información bien estructurada 
+contribuye a tomar mejores decisiones y a generar mayor confianza en las herramientas tecnológicas.

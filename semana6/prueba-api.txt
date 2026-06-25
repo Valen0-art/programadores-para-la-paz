@@ -1,0 +1,20 @@
+PRUEBA API
+
+Al enviar una petición POST a la ruta http://localhost:3000/registro con el siguiente JSON:
+
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+el servidor recibe los datos enviados en el cuerpo de la petición mediante "req.body". Luego 
+responde con un objeto JSON que confirma que los datos fueron recibidos correctamente y muestra 
+la información enviada:
+
+Respuesta del servidor:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
