@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios en la plataforma.
+2. Proteger las credenciales mediante contraseñas seguras y encriptación.
+3. Usar autenticación de dos factores para reforzar la seguridad de las cuentas.
+4. Mantener el sistema y las aplicaciones actualizadas para evitar vulnerabilidades.
+5. Evitar el acceso desde redes públicas sin protección o sin VPN.

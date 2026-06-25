@@ -1,0 +1,10 @@
+El comando "whoami" muestra el usuario actual del sistema. En este caso, indica que el usuario activo
+es "Valentina Urrea". Es útil para verificar con qué cuenta se están ejecutando los comandos.
+
+El comando "uname -a" muestra información detallada del sistema operativo. Incluye datos como el tipo 
+de sistema, la versión del kernel, la arquitectura (x86_64) y el entorno donde se está ejecutando 
+(MINGW64 en Git Bash).
+
+Esta información es importante en la administración de servidores porque permite identificar el sistema
+en el que se trabaja, verificar compatibilidad y asegurar que se están usando los permisos y entorno 
+correctos para ejecutar tareas.
