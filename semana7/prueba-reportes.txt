@@ -1,0 +1,7 @@
+Cuando se envía una petición POST a http://localhost:3000/reportes, el 
+servidor crea un nuevo reporte con un id automático, el tipo y la descripción
+enviados en el JSON. Luego, este reporte se guarda en un arreglo en memoria llamado "reportes".
+
+Después, al hacer una petición GET a la misma ruta, el servidor devuelve todos los reportes almacenados.
+
+En conclusión, los datos se guardan temporalmente en memoria, por lo que se pierden al reiniciar el servidor.
