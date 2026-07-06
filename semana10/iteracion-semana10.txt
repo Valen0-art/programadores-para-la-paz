@@ -1,0 +1,13 @@
+Las dos tareas que haría primero son:
+
+1. Registrar una incidencia.
+2. Enviar una alerta al coordinador.
+
+Las escogí porque son las funciones principales del sistema. Primero debe existir el reporte y
+luego la notificación para que el equipo pueda actuar.
+
+Una tarea está terminada cuando:
+
+- Funciona correctamente y cumple con lo que se esperaba.
+- Fue probada para verificar que no tenga errores importantes.
+- Quedó registrada en Git y está lista para ser utilizada por el equipo.
