@@ -1,0 +1,40 @@
+Modelo de datos
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha_registro
+- estado
+- ubicacion_general
+
+Propósito:
+Guardar los reportes o incidencias realizadas por la comunidad para permitir su seguimiento y control.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- rol
+- fecha_registro
+
+Propósito:
+Registrar los usuarios de la plataforma y definir los permisos de acceso según el rol que tengan.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- reporte_id
+- estado_anterior
+- estado_nuevo
+- fecha_cambio
+
+Propósito:
+Registrar los cambios realizados en los reportes para mantener trazabilidad y saber cómo ha avanzado cada caso.

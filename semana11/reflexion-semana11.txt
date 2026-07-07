@@ -1,0 +1,14 @@
+Reflexión
+
+Considero que una plataforma de participación ciudadana necesita una base de datos porque permite 
+organizar la información, guardar reportes y hacer seguimiento a las actividades de la comunidad.  
+La autenticación de usuarios es importante porque ayuda a controlar quién puede ingresar y qué 
+acciones puede realizar dentro de la plataforma.  
+También permite asignar diferentes permisos según el rol de cada persona.  
+La protección de la información es fundamental para mantener la privacidad y la confianza de los usuarios.  
+No todos los datos deben estar disponibles públicamente, especialmente cuando contienen información 
+personal o sensible.  
+Además, contar con registros de cambios permite saber quién realizó una modificación y cuándo ocurrió.  
+Una plataforma segura facilita la participación y evita problemas relacionados con el mal uso de los datos.  
+En conclusión, la tecnología debe estar acompañada de responsabilidad, seguridad y buenas prácticas para 
+beneficiar a la comunidad.
