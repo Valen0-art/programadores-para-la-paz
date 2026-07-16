@@ -1,0 +1,8 @@
+Evento: Una petición alcanza 100 apoyos registrados en la plataforma.
+
+Mensaje: "¡Una causa ha alcanzado 100 apoyos! Ya puede revisarse para generar el documento 
+oficial y continuar con el proceso."
+
+Información que no debe enviarse: No deben compartirse nombres completos de los participantes, 
+documentos de identidad, correos electrónicos, números de teléfono ni ningún otro dato que permita 
+identificar a los ciudadanos.

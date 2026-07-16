@@ -1,0 +1,8 @@
+Flujo Sistema
+
+1. Un ciudadano crea una nueva petición ingresando el título y la descripción de la causa.
+2. El sistema registra la información de la petición en la base de datos de forma segura.
+3. Otros ciudadanos pueden ingresar a la plataforma y apoyar la causa con su registro.
+4. El sistema actualiza automáticamente el número de apoyos y muestra el progreso de la petición.
+5. Cuando la petición está lista, el sistema genera un documento PDF con toda la información y 
+los apoyos para compartirlo o presentarlo ante la entidad correspondiente.

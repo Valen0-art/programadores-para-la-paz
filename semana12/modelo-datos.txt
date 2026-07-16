@@ -1,0 +1,30 @@
+Entidad: Ciudadano
+
+id
+nombre
+correo
+fecha_registro
+
+¿Para qué sirve?
+Esta entidad almacena la información básica de las personas que crean o apoyan las causas dentro de la plataforma.
+
+Entidad: Causa
+
+id
+titulo
+descripción
+fecha
+
+¿Para qué sirve?
+Esta entidad almacena la información principal de cada petición o causa creada por un ciudadano.
+
+Entidad: Apoyo
+
+id
+causa_id
+nombre
+fecha
+
+¿Para qué sirve?
+Esta entidad registra a las personas que apoyan una causa y la relaciona con la petición correspondiente 
+mediante el campo "causa_id".
